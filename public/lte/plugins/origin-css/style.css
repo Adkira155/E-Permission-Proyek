@@ -1,0 +1,81 @@
+.main-color {
+  background-color: #283551;
+}
+.sub-color {
+  background-color: #c7d4e4;
+}
+.sub-color2 {
+  background-color: #6d728f;
+}
+.form-control:focus {
+  box-shadow: none;
+  border-color: #6882c8
+}
+
+.profile-button {
+  background: rgb(39, 39, 120);
+  box-shadow: none;
+  border: none
+}
+
+.profile-button:hover {
+  background: #272d73
+}
+
+.profile-button:focus {
+  background: #273573;
+  box-shadow: none
+}
+
+.profile-button:active {
+  background: #273973;
+  box-shadow: none
+}
+
+.back:hover {
+  color: #273773;
+  cursor: pointer
+}
+
+.labels {
+  font-size: 11px
+}
+
+.add-experience:hover {
+  background: #6888c8;
+  color: #ffffff;
+  cursor: pointer;
+  border: solid 1px #6895c8
+}
+
+.bg-ijo{
+  background-color: #39953e;
+  color: white;
+}
+
+.bg-kuning{
+  background-color: #bfb94a;
+  color: white;
+}
+
+.bg-biru{
+  background-color: #396a95;
+  color: white;
+}
+
+.bg-merah{
+  background-color: #953939;
+  color: white;
+}
+.color-ori {
+background-color: #ecf4ff;
+}
+.color-blue {
+  background-color: #cfd5e5;
+  }
+  .link-col{
+    color: #273573;
+  }
+  .col-white{
+    color: #ffffff;
+  }
